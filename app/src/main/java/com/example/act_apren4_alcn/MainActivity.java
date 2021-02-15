@@ -28,10 +28,11 @@ public class MainActivity extends AppCompatActivity {
         tv1 = (TextView) findViewById(R.id.txtResul);
     }
 
+    //METODO
     public void Evaluar(View view) {
         String st1 = et1.getText().toString();
         String st2 = et2.getText().toString();
-        //
+        // si el campo esta vacio mandar error
         if (st1.trim().equalsIgnoreCase("")) {
             et1.setError("Llenar este campo");
         }
