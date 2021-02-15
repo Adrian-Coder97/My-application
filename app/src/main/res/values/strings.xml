@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Act_Apren4_ALCN</string>
+    <string name="txtTitle">Evaluar estado del estudiante</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtCalif">Calificacion</string>
+    <string name="btnEvaluar">Evaluar</string>
+</resources>
